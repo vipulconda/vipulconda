@@ -4,7 +4,7 @@
 
 _Building secure Java microservices and high-throughput messaging systems for healthcare & enterprise platforms_
 
-[LinkedIn](https://www.linkedin.com/in/vipul02vns/) · [Email](mailto:vipul02vns@gmail.com) · [GitHub](https://github.com/vipulconda)
+[LinkedIn](https://www.linkedin.com/in/vipul-singh-491b33204/) · [Email](mailto:vipul02vns@gmail.com) · [GitHub](https://github.com/vipulconda)
 
 ---
 
