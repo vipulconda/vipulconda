@@ -28,7 +28,7 @@ Cross-language (**Python & Java**) producer/consumer wrapper over Redis Streams 
 - Published production-ready artifacts for seamless integration across multiple microservices
 - Open-source reference: **[redis-streams-messaging](https://github.com/vipulconda/redis-streams-messaging)** (Python + Java, parallel APIs)
 
-### 🔐 Secure API — JWT & RBAC — _Air India 
+### 🔐 Secure API — JWT & RBAC — _Air India_ 
 
 Enterprise-style **Spring Boot** microservice demonstrating stateless **JWT** auth and role-based access (`ADMIN` / `USER`) with PostgreSQL.
 
