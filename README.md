@@ -1,5 +1,7 @@
 # Hi, I'm Vipul Singh
 
+<!-- Profile README for https://github.com/vipulconda -->
+
 Backend engineer (IIT Bombay '24) — **Java** (Spring Boot, JWT, microservices) and **Python** (Redis Streams, AWS data pipelines).  
 Previously @ Air India · now @ HiLabs — building production systems in both languages.
 
