@@ -1,6 +1,7 @@
 # Hi, I'm Vipul Singh
 
-<!-- Profile README for https://github.com/vipulconda -->
+> Profile README source: [vipulconda/readme](https://github.com/vipulconda/readme)  
+> This repo (`vipulconda/vipulconda`) exists because GitHub only renders a profile README from a repository named exactly your username.
 
 Backend engineer (IIT Bombay '24) — **Java** (Spring Boot, JWT, microservices) and **Python** (Redis Streams, AWS data pipelines).  
 Previously @ Air India · now @ HiLabs — building production systems in both languages.
